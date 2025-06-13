@@ -63,7 +63,10 @@ td:nth-child(5n+5){
     background: black;
 }
 
-tr :hover{
+tr:hover{
+    color: blue;
+}
+tr:hover td{
     color: red;
 }
 
